@@ -3,7 +3,7 @@ This is a full-stack Quiz Application built using MongoDB, Express.js, React.js,
 It allows users to enter their name, answer multiple-choice questions, and view their quiz results at the end.
 
 ✨ Live Demo
-👉 Click Here to Try the App
+👉 Click Here  https://hilarious-meringue-08dc4a.netlify.app/
 
 📸 ![Screenshot (871)](https://github.com/user-attachments/assets/7dc148f0-15f5-4a42-b407-d065c2b84df7)
 
@@ -65,7 +65,7 @@ Follow these steps to set up the project locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/quiz-application.git
+git clone https://github.com/khushboo8252/Quiz_App.git
 cd quiz-application
 2. Setup Frontend (React)
 bash
